@@ -1,0 +1,10 @@
+ros-humble-linear-sum-assignment (1.9.2-1jammy) jammy; urgency=high
+
+  * docs: add license and CONTRIBUTING.md
+  * docs: add readme
+  * feat: initial commit
+  * Contributors: Daisuke Nishimatsu
+
+ -- Daisuke Nishimatsu <nishimarudai@gmail.com>  Sat, 10 Sep 2022 15:00:00 -0000
+
+
